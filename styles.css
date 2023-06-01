@@ -46,8 +46,11 @@ section {
 	border: 2px solid #d0d0d5;
 }
 
-#year {
+#years {
+	position: sticky;
 	display: flex;
 	justify-content: flex-end;
 	top: 0;
+	color: #fff;
+	background-color: #0a0a23;
 }
