@@ -68,6 +68,10 @@ section {
 	padding: 0 0.75rem 1.5rem 0.75rem;
 }
 
+table {
+	border-collapse: collapse;
+	border: 0;
+}
 span {
 	font-weight: normal;
 }
