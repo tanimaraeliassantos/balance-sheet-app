@@ -77,7 +77,7 @@ table {
 }
 
 table caption {
-	color:#356eaf;
+	color: #356eaf;
 	font-size: 1.3em;
 	font-weight: normal;
 	position: absolute;
@@ -86,4 +86,10 @@ table caption {
 }
 span {
 	font-weight: normal;
+}
+
+tbody td {
+	width: 100vw;
+	max-width: 4rem;
+	min-width: 4rem;
 }
