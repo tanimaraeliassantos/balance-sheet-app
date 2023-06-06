@@ -103,7 +103,7 @@ tr[class='total'] {
 	font-weight: bold;
 }
 
-te[class="total"] th {
+te[class='total'] th {
 	text-align: left;
 	padding: 0.5rem 0 0.25rem 0.5rem;
 }
@@ -113,6 +113,10 @@ tr.total td {
 	padding: 0 0.25rem;
 }
 
-tr.total td:nth-of-type (3) {
+tr.total td:nth-of-type(3) {
 	padding: 0.5rem;
+}
+
+tr.total:hover {
+	background-color: #99c9ff;
 }
