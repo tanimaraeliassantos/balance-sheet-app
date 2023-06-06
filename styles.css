@@ -132,3 +132,9 @@ tr.data {
 		white 1.845rem
 	);
 }
+
+tr.data th {
+	text-align: left;
+	padding-top: 0.3rem;
+	padding-left: 0.5rem;
+}
