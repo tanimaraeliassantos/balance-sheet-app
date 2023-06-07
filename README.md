@@ -1,15 +1,15 @@
-# TRIBUTE PAGE TO MARY JACKSON APP
+# BALANCE SHEET APP
 
-The application was built as a practice project for a responsive web design course with FreecodeCamp. It features a tribute page with basic information on Mrs. Mary Jackson, the first black female engineer at NASA.
+The application was built as a practice project for a responsive web design course with FreecodeCamp. It features a balance sheet of AmeWidgetCorp with information on Assets, Liabilities and Net Worth.
 
-![tribute page app - Tanimara Elias Santos](tribute-page-app-showcase.gif)
+![balance sheet app - Tanimara Elias Santos](balance-sheet-app-showcase.gif)
 
- ## Features
+## Features
 
-- Quiz on HTML and CSS subjects
-- Text, radio, date inputs
-- Navigation bar
-- Accessibility features throughout the quiz
+- Table with balance information of AcmeWidgetCorp
+- Description of Assets yearly with total
+- Description of Liabilities yearly with total
+- Total rows with hovering effect
 
 ## Technologies
 
@@ -32,4 +32,3 @@ When making changes, make sure you reload to see it on the page.
 ### Version
 
 1.0.0
- 
